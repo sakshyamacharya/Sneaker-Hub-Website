@@ -1,0 +1,10 @@
+Admin Details
+
+email=admin@gmail.com
+password=admin
+
+
+User Details
+
+email=sunway@gmail.com
+password=sunway@123

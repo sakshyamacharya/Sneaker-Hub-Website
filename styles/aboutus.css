@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.about-section, .brand-section, .commitment-section {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: justify;
+}
+
+h2 {
+    color: #444;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+
+.brand-section .row {
+    display: flex;
+    align-items: center;
+}
+
+.brand img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.brand p {
+    font-size: 0.95rem;
+    margin-top: 10px;
+}
+
+.commitment-section {
+    text-align: center;
+}
+
+.commitment-section p {
+    font-size: 1rem;
+    margin: 0;
+}
